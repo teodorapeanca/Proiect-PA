@@ -1,0 +1,1 @@
+Pentru compilarea programului, este nevoie de un sistem de opereare Linux, cu pachetele pentru gcc si make instalate. Programul poate fi compilat cu comanda make, si poate fi rulat cu comanda make run target=numele-fisierului.

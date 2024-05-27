@@ -1,0 +1,10 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}Enunțul Problemei}{2}{section.1}%
+\contentsline {section}{\numberline {2}Algoritmi}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Algoritm rucsac}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Explicație algoritm rucsac}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Algoritmul de enumerare a elementelor selectate}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Explicație algoritm de enumerare a elementelor selectate}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Date Experimentale}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Interpretare}{5}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Rezultate și Concluzii}{6}{section.4}%
